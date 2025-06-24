@@ -183,7 +183,7 @@ DOMAIN-SUFFIX,chememall.com
 # fnOS
 #DOMAIN-SUFFIX,5ddd.com
 
-#未知
-DOMAIN,o1098464.ingest.sentry.io
+#报错监控
+#DOMAIN,o1098464.ingest.sentry.io
 
 # 更多已被收录的域名，此处未做保留
