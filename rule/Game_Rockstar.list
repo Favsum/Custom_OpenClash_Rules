@@ -1,0 +1,10 @@
+[]GEOSITE,category-games
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN,www.google-analytics.com
+DOMAIN,www.googletagmanager.com
+DIMAIN,play.googleapis.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,battleye.com
+IP-CIDR,185.56.65.0/24
