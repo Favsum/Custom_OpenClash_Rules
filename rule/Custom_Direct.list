@@ -184,7 +184,7 @@ DOMAIN-SUFFIX,chememall.com
 #DOMAIN-SUFFIX,5ddd.com
 
 #报错监控
-DOMAIN,o1098464.ingest.sentry.io
+DOMAIN-SUFFIX,sentry.io
 #证书认证
 DOMAIN-SUFFIX,digicert.com
 # 更多已被收录的域名，此处未做保留
